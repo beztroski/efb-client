@@ -1,0 +1,42 @@
+{
+  "en": {
+    "subtitle": "ESCAPE FROM",
+    "launchBtn": "LAUNCH",
+    "statOnline": "ONLINE",
+    "statPlayers": "players",
+    "statVersion": "VERSION",
+    "settingsTitle": "SETTINGS",
+    "soundLabel": "BUTTON SOUNDS",
+    "langLabel": "LANGUAGE",
+    "regionLabel": "REGION",
+    "newsMsg": "NEWS FEED",
+    "newsDesc": "Latest updates will appear here soon.",
+    "serversMsg": "SERVER LIST",
+    "serversDesc": "Community servers & infrastructure.",
+    "navMain": "MAIN",
+    "navNews": "NEWS",
+    "navServers": "SERVERS",
+    "navSettings": "SETTINGS",
+    "regionPrefix": "REGION: "
+  },
+  "ru": {
+    "subtitle": "ESCAPE FROM",
+    "launchBtn": "ЗАПУСК",
+    "statOnline": "ОНЛАЙН",
+    "statPlayers": "игроков",
+    "statVersion": "ВЕРСИЯ",
+    "settingsTitle": "НАСТРОЙКИ",
+    "soundLabel": "ЗВУК КНОПОК",
+    "langLabel": "ЯЗЫК",
+    "regionLabel": "РЕГИОН",
+    "newsMsg": "ЛЕНТА НОВОСТЕЙ",
+    "newsDesc": "Скоро здесь появятся обновления.",
+    "serversMsg": "СПИСОК СЕРВЕРОВ",
+    "serversDesc": "Сервера сообщества и инфраструктура.",
+    "navMain": "ГЛАВНАЯ",
+    "navNews": "НОВОСТИ",
+    "navServers": "СЕРВЕРА",
+    "navSettings": "НАСТРОЙКИ",
+    "regionPrefix": "РЕГИОН: "
+  }
+}
