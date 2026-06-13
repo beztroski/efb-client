@@ -42,7 +42,7 @@
     "tooltipRam": "A minimum of 6 GB RAM is recommended. Do not allocate all available memory, as this may cause system instability."
   },
   "ru": {
-    "subtitle": "ПОБЕГ ИЗ",
+    "subtitle": "ESCAPE FROM",
     "launchBtn": "ЗАПУСК",
     "statOnline": "ОНЛАЙН",
     "statPlayers": "игроков",
@@ -84,7 +84,7 @@
     "tooltipRam": "Рекомендуется минимум 6 GB оперативной памяти. Не рекомендуется выделять весь объём ОЗУ, так как это может привести к нестабильной работе системы."
   },
   "zh": {
-    "subtitle": "逃离",
+    "subtitle": "ESCAPE FROM",
     "launchBtn": "启 动",
     "statOnline": "在 线",
     "statPlayers": "名玩家",
