@@ -1,46 +1,45 @@
-ESCAPE FROM BRILSK - CONTENT LICENSE AGREEMENT
+ESCAPE FROM BRILSK - END USER LICENSE AGREEMENT FOR THE OFFICIAL CLIENT AND ASSOCIATED CONTENT
 
-License Version 2.1, effective from the moment you download or use any materials from this repository.
+Version 2.3 (Effective immediately upon any access, download, or use of the Licensed Application or any materials provided through it)
 
-THIS AGREEMENT IS A LEGALLY BINDING DOCUMENT BETWEEN YOU (AN INDIVIDUAL OR LEGAL ENTITY) AND THE AUTHORS OF THE "ESCAPE FROM BRILSK" PROJECT (HEREINAFTER — THE "RIGHTS HOLDER"). PLEASE READ THE TERMS CAREFULLY BEFORE USE. IF YOU DO NOT AGREE TO THE TERMS, DO NOT DOWNLOAD OR USE THE MATERIALS.
+IMPORTANT NOTICE — READ CAREFULLY: THIS END USER LICENSE AGREEMENT ("AGREEMENT") IS A LEGALLY BINDING CONTRACT BETWEEN YOU (EITHER A NATURAL PERSON OR A LEGAL ENTITY, HEREINAFTER "USER" OR "YOU") AND THE RIGHTS HOLDER OF THE "ESCAPE FROM BRILSK" PROJECT (HEREINAFTER "RIGHTS HOLDER" OR "LICENSOR"). BY DOWNLOADING, INSTALLING, ACCESSING, OR USING THE OFFICIAL CLIENT SOFTWARE (THE "CLIENT") OR ANY FILES, MODIFICATIONS, CONFIGURATIONS, OR OTHER MATERIALS DISTRIBUTED THROUGH IT (COLLECTIVELY, THE "LICENSED APPLICATION"), YOU UNEQUIVOCALLY REPRESENT THAT YOU HAVE READ, UNDERSTOOD, AND IRREVOCABLY AGREE TO BE BOUND BY ALL TERMS AND CONDITIONS SET FORTH HEREIN. IF YOU DO NOT UNCONDITIONALLY ACCEPT EVERY PROVISION, YOU MUST IMMEDIATELY CEASE ALL USE AND DELETE ANY COPIES OF THE LICENSED APPLICATION.
 
 1. DEFINITIONS
-   - "Content" means all files located in this repository, including but not limited to: modifications, configurations, textures, resources, scripts, audiovisual elements, text descriptions, lore elements, and any derivative works assembled and provided by the Rights Holder.
-   - "Modpack" means the collection of Content structured to operate together within Minecraft, known as "Escape From Brilsk".
-   - "Official Launcher" means the software distributed by the Rights Holder designed for downloading, installing, and updating the Modpack.
-   - "User" means any person accessing the Content.
+   For the purposes of this Agreement:
+   (a) "Licensed Application" means, collectively and without limitation, the official client software provided by the Rights Holder (the "Client"), all files, modifications, configurations, textures, audio, scripts, narrative elements, and any other content that is downloaded, installed, or updated through the Client, including the curated compilation known as "Escape From Brilsk" and any future iterations thereof.
+   (b) "Rights Holder" means the creators and maintainers of the "Escape From Brilsk" project, who retain exclusive ownership and control over the Licensed Application.
+   (c) "Intellectual Property Rights" means any and all rights, title, and interest under patent, copyright, trade secret, trademark, moral right, or other intellectual property law, whether registered or unregistered, in any jurisdiction worldwide.
 
 2. GRANT OF LICENSE
-   Subject to compliance with all terms of this Agreement, the Rights Holder grants the User a non-exclusive, non-transferable, royalty-free right to use the Content exclusively for personal, non-commercial purposes to run the Modpack through the Official Launcher. Any other use is permitted only with the prior written consent of the Rights Holder.
+   Subject to your strict and continuous compliance with this Agreement, the Rights Holder grants you a limited, personal, non-exclusive, non-sublicensable, non-transferable, and fully revocable right to use the Licensed Application solely in object code form and exclusively for your personal, non-commercial entertainment. This license extends only to the act of launching and playing the modpack through the Client in the manner expressly intended by the Rights Holder. No other rights, immunities, or uses are granted, whether by implication, estoppel, or otherwise.
 
-3. RESTRICTIONS ON USE
-   The User shall not:
-   - distribute, copy, publish, rent, transfer to third parties the Content or any part thereof outside the Official Launcher;
-   - modify, decompile, extract source data, or create derivative works based on the Content, except where expressly permitted by the licenses of individual modifications;
-   - use the Content to create custom modpacks, public servers, or commercial products;
-   - remove, alter, or conceal any copyright or other proprietary notices contained in the Content;
-   - upload the Content to third-party resources, including file-sharing services, cloud storages, and torrent trackers;
-   - use the Content in ways that damage the reputation of the Rights Holder or the "Escape From Brilsk" project.
+3. ABSOLUTE RESTRICTIONS
+   You shall not, directly or indirectly, or through any third party:
+   (a) copy, reproduce, distribute, mirror, rent, lease, sublicense, or otherwise make available the Client or any component of the Licensed Application on any platform, file-sharing service, torrent tracker, cloud storage, or other medium not explicitly authorized in writing by the Rights Holder;
+   (b) modify, reverse engineer, decompile, disassemble, or create derivative works based on the Client or the overall compilation, configuration, or selection of content that constitutes the Licensed Application, except where such restriction is prohibited by applicable mandatory law and then only to the minimum extent necessary;
+   (c) remove, disable, circumvent, or obscure any digital rights management, license verification, hardware-binding, or anti-circumvention mechanisms embedded in the Client;
+   (d) use the Licensed Application, in whole or in part, to host public servers, create competing modpacks, or derive any commercial benefit without prior express written consent;
+   (e) engage in any activity that, in the Rights Holder's sole discretion, disrupts, damages, or unfairly exploits the project's ecosystem, including but not limited to ban evasion, denial-of-service, or systematic data scraping.
 
-4. INTELLECTUAL PROPERTY
-   The Content, including the selection and arrangement of files, unique configurations, lore elements, visual design, and the name "Escape From Brilsk", is the intellectual property of the Rights Holder and is protected by copyright law. Individual modifications included in the Content may belong to their respective authors and may be used in accordance with their own licenses; however, the compilation and configuration of these modifications as part of the Modpack is the exclusive property of the Rights Holder.
+4. INTELLECTUAL PROPERTY OWNERSHIP
+   You acknowledge and agree that the Licensed Application, and in particular the Client code, the unique compilation of mods and configurations, the visual design, lore, and the name "Escape From Brilsk", constitute proprietary information and protected works of authorship under international copyright and intellectual property treaties. Individual third-party mods may remain subject to their respective licenses, but the selection, coordination, and configuration that form the modpack, as well as the Client itself, are the exclusive Intellectual Property of the Rights Holder. Nothing in this Agreement transfers any ownership interest to you.
 
-5. DOWNLOAD AND UPDATES
-   The only legal method of obtaining the Content is via download through the Official Launcher. Any download from other sources does not guarantee functionality or security and constitutes a violation of this Agreement.
+5. UPDATES AND INTEGRITY
+   The Licensed Application is intended to be obtained exclusively through channels designated by the Rights Holder. Any version obtained from an unauthorized source is not guaranteed to function and is a material violation of this Agreement. The Rights Holder may, at its sole discretion, deploy mandatory updates, and your license is conditional upon prompt adoption of such updates. Failure to update may result in termination of access.
 
-6. DISCLAIMER OF WARRANTIES
-   THE CONTENT IS PROVIDED "AS IS". THE RIGHTS HOLDER MAKES NO EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS. THE RIGHTS HOLDER SHALL NOT BE LIABLE FOR ANY DAMAGE TO SOFTWARE OR HARDWARE ARISING FROM THE USE OF THE CONTENT.
+6. NO WARRANTY (AS IS)
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSED APPLICATION IS PROVIDED "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS, AND WITHOUT ANY WARRANTY OF ANY KIND. THE RIGHTS HOLDER EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND THOSE ARISING FROM COURSE OF DEALING OR USAGE OF TRADE. THE RIGHTS HOLDER DOES NOT GUARANTEE THAT THE CLIENT WILL BE UNINTERRUPTED, ERROR-FREE, OR COMPATIBLE WITH YOUR PARTICULAR HARDWARE OR SOFTWARE.
 
 7. LIMITATION OF LIABILITY
-   IN NO EVENT SHALL THE RIGHTS HOLDER BE LIABLE FOR ANY DAMAGES WHATSOEVER, INCLUDING DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF THE USE OR INABILITY TO USE THE CONTENT.
+   TO THE FULLEST EXTENT PERMITTED BY MANDATORY LAW, THE RIGHTS HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOSS OF DATA, PROFITS, OR HARDWARE FAILURE) ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE LICENSED APPLICATION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN JURISDICTIONS THAT DO NOT ALLOW SUCH EXCLUSIONS, LIABILITY IS LIMITED TO THE MINIMUM PERMITTED BY LAW, WHICH SHALL IN NO EVENT EXCEED ZERO DOLLARS ($0.00).
 
-8. TERMINATION
-   This Agreement remains in effect until terminated. The Rights Holder reserves the right to unilaterally terminate this Agreement in the event of a breach by the User of any of its terms. Upon termination, the User must destroy all copies of the Content.
+8. TERM AND TERMINATION
+   This Agreement is effective until terminated. The Rights Holder may terminate this license immediately and without prior notice if you breach any term. Upon termination, you must irretrievably delete all copies of the Licensed Application. The Rights Holder further reserves the right to enforce this termination through technical means embedded in the Client, including the use of hardware and network identifiers. Sections 1, 3, 4, 6, 7, 8, and 9 shall survive termination.
 
-9. GOVERNING LAW
-   This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction where the Rights Holder is located. Any disputes shall be subject to the jurisdiction of the competent courts of that jurisdiction.
+9. GOVERNING LAW AND SEVERABILITY
+   This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction where the Rights Holder is established, without regard to conflict-of-law principles. Any disputes shall be subject to the exclusive jurisdiction of the courts of that jurisdiction. If any provision of this Agreement is found to be unenforceable, the remaining provisions shall remain in full force, and the unenforceable provision shall be reformed to the minimum extent necessary to give effect to its economic intent.
 
-10. CONTACT INFORMATION
-    For all inquiries regarding licensing and use of the Content, please contact us through the official communication channels listed on the "Escape From Brilsk" project resources.
+10. ENTIRE AGREEMENT
+    This Agreement, together with our Privacy Policy (which is incorporated by reference), constitutes the entire understanding between you and the Rights Holder regarding the Licensed Application and supersedes all prior agreements. All rights not expressly granted herein are reserved by the Rights Holder.
 
-BY INSTALLING, DOWNLOADING, OR USING THE CONTENT, YOU ACKNOWLEDGE THAT YOU HAVE READ AND ACCEPT THE TERMS OF THIS AGREEMENT.
+BY USING THE CLIENT OR ANY PART OF THE LICENSED APPLICATION, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND ACCEPTED THIS AGREEMENT, AND YOU CONSENT TO THE COLLECTION AND PROCESSING OF TECHNICAL IDENTIFIERS AS DESCRIBED IN THE PRIVACY POLICY.
