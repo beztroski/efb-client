@@ -22,7 +22,7 @@ Escape From Brilsk — это ГЛУБОКАЯ хардкорная модифи
 ## Лицензия
 > [!WARNING]
 > Все права на сборку и лор принадлежат авторам проекта Escape From Brilsk. Файлы предоставляются исключительно для использования через официальный лаунчер.
-> Более подробная лицензия находится: 
+> Более подробная лицензия находится: [здесь](https://raw.githubusercontent.com/beztroski/efb-client/refs/heads/main/LICENSE)
 
 [![Telegram](https://img.shields.io/badge/Telegram-t.me/efb__dev-darkred?style=for-the-badge&logo=telegram&logoColor=darkred&labelColor=black)](https://t.me/efb_dev)  
 [![YouTube](https://img.shields.io/badge/YOUTUBE-@efb__dev-darkred?style=for-the-badge&logo=youtube&logoColor=darkred&labelColor=black)](https://youtube.com/@efb_dev)
