@@ -1,47 +1,42 @@
-# PRIVACY POLICY — ESCAPE FROM BRILSK
+# PRIVACY POLICY — ESCAPE FROM BRILSK CLIENT
 
-**Effective Date:** [Date]
-**Last Updated:** [Date]
+**Effective Date:** [This License becomes effective upon the creation of a User account in the Project]
+**Last Updated:** [19/06/2026]
 
-## 1. INTRODUCTION AND SCOPE
-This Privacy Policy describes how the operator of the "Escape From Brilsk" project ("we," "us," or "our") collects, processes, stores, and protects information obtained from users ("you" or "your") during registration and use of the Official Launcher and associated services. This Policy applies to all interactions with our systems and supplements our End User License Agreement. By registering an account and using the Launcher, you expressly consent to the data practices described herein.
+This Privacy Policy describes how the "Escape From Brilsk" project ("Project," "we," "us") processes information when you use our official client and related services. Our primary goal is to maintain a fair, secure, and abuse-free environment. This Policy is incorporated into our End User License Agreement.
 
-## 2. DATA WE COLLECT
-We collect only such data as is strictly necessary to provide, maintain, and protect the integrity of our services. The categories of information we may process include, but are not necessarily limited to:
+## 1. DATA WE PROCESS
+We only process the minimum technical identifiers necessary to enforce our license terms and protect the integrity of the service. We do not require your real name, email address, or physical location.
 
-(a) **Authentication Data:** Telegram User ID (a unique numerical identifier assigned by the Telegram messaging platform), used as the primary key for account creation and verification through our designated bot (@efb_id_bot). No message content, contact lists, or other Telegram profile data is accessed or stored.
+### (a) Telegram User ID
+A unique numeric identifier obtained when you register through our official bot. Used as your account key for authentication and support.
 
-(b) **Technical Identifiers:**
-   - IP (Internet Protocol) address of the device initiating a connection to our services;
-   - HWID (Hardware Identification), a non-reversible hash derived from components of your hardware configuration, used to enforce our one-account-per-user policy and prevent abuse.
+### (b) Hardware Fingerprint (HWID)
+A non-reversible, one-way hash generated from a subset of your device's hardware characteristics. Standing alone, this does not identify you as an individual. It is used solely to prevent multi-account abuse and ban evasion by binding a license to a specific machine.
 
-(c) **Usage and Diagnostic Data:** Launcher version, Modpack version, timestamps of access, and error logs that may incidentally contain technical information about your runtime environment. This data is collected solely for troubleshooting and ensuring compatibility.
+### (c) IP Address
+- **Transient (clear text):** When you connect to our services, we temporarily process your IP address in its original form for a maximum of **7 days**. This is used for operational security, rate-limiting, and DDoS mitigation.
+- **Persistent (hashed):** After 7 days, the IP address is irreversibly hashed using a strong cryptographic algorithm. The resulting **hash is retained indefinitely** as part of a security blacklist. The hashed form does not allow us to know the original IP, but it enables us to detect and block known malicious actors or users who attempt to circumvent bans. The original clear-text IP is deleted upon hashing.
 
-We do **not** knowingly collect or process any special categories of personal data (sensitive data) as defined under applicable data protection legislation.
+### (d) Client Diagnostics
+Includes client version, modpack version, and anonymized crash logs. Used exclusively for debugging and ensuring compatibility.
 
-## 3. PURPOSES AND LEGAL BASIS FOR PROCESSING
-Your data is processed for the following defined purposes, grounded on the corresponding legal bases:
+## 2. HOW WE USE YOUR DATA (PURPOSES AND LEGAL BASES)
+- **Contractual Necessity:** To authenticate your account, deliver the Licensed Application, and enforce the EULA (binding your Telegram ID and HWID).
+- **Legitimate Interests:** To safeguard the security and stability of our client, prevent fraud, enforce bans, and maintain a blacklist of hashed identifiers. Our interests are balanced against your rights, given the non-sensitive nature of the data and our strong security practices.
+- **Consent (where required):** For users in jurisdictions that require explicit consent for hashed IP retention, your consent is signaled by the affirmative act of using the client after being presented with this Policy. If you disagree, you must not use the client.
 
-| Purpose | Legal Basis |
-|---|---|
-| Account registration, authentication, and license enforcement | Performance of a contract (the EULA) and our legitimate interest in preventing unauthorized access |
-| Enforcement of the "one user, one account" principle via HWID binding | Legitimate interest in preventing fraud, ban evasion, and protecting the integrity of our service |
-| Service security, DDoS mitigation, and investigation of violations | Legitimate interest in ensuring network and information security |
-| Debugging, crash diagnostics, and compatibility analysis | Legitimate interest in improving service quality and user experience |
+## 3. DATA RETENTION
+- **Telegram ID & HWID:** Stored for the active lifecycle of your account and for a reasonable period thereafter to enforce bans.
+- **Clear-text IP:** Automatically deleted after **7 days**.
+- **Hashed IP:** Stored permanently in our security blacklist. Because the hash is one-way and cannot be reversed to the original IP, this retention is strictly for security enforcement and is exempt from erasure requests under applicable data protection laws that recognize this practice as a legitimate safeguard.
+- **Crash logs:** Retained for a short rolling period and then permanently deleted.
 
-Where we rely on legitimate interest as a legal basis, we have conducted a balancing test to ensure your fundamental rights and freedoms do not override our interests.
+## 4. DATA SHARING AND SECURITY
+We do **not** sell, trade, or monetize your data. We may disclose information only: (a) to infrastructure providers necessary for hosting (bound by confidentiality); or (b) when compelled by a valid legal order. We implement technical and organizational measures to protect all identifiers, including encryption at rest for hashed IP lists and strict access controls.
 
-## 4. DATA RETENTION AND STORAGE
-We retain collected data only for as long as is necessary to fulfill the purposes outlined in Section 3, or as required by applicable law. Specifically: authentication and HWID bindings are retained for the duration of the project's lifecycle to maintain the integrity of the user database; IP logs are periodically rotated and purged on an automated schedule; diagnostic logs are retained for a short period and automatically overwritten. Upon termination of your account in accordance with the EULA, your personal identifiers may be retained in a suppression list to prevent re-registration by violators, based on our legitimate interest.
+## 5. YOUR RIGHTS AND CONTACT
+Depending on your jurisdiction, you may have rights to access, rectify, or delete your personal data. Because we operate with a lightweight, privacy-focused architecture, we rely on automated processes. To make a verifiable request, please contact us through the official communication channels listed in our repository, including from the Telegram account you used to register. We will respond within statutory timeframes. Note that we may decline requests that would impair our ability to enforce bans, including deletion of hashed IPs that constitute a necessary security measure.
 
-## 5. DATA SHARING AND DISCLOSURE
-We do **not** sell, trade, rent, or otherwise disclose your personal data to third parties for their commercial purposes. We may disclose data only: (a) to service providers acting as data processors on our behalf (e.g., hosting infrastructure) bound by contractual confidentiality obligations; or (b) if compelled by a valid and binding order from a court or governmental authority of competent jurisdiction, to the minimum extent legally required.
-
-## 6. SECURITY
-We implement appropriate technical and organizational measures designed to protect your data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access, taking into account the state of the art, the costs of implementation, and the nature, scope, context, and purposes of processing. However, no method of transmission over the Internet or electronic storage is one hundred percent secure, and we cannot guarantee absolute security.
-
-## 7. YOUR RIGHTS
-Depending on your jurisdiction, you may have certain rights regarding your personal data, including the right to access, rectify, erase, restrict processing, object to processing, and data portability. To exercise any such rights, please contact us via the official communication channels listed on our project resources. We will respond to verifiable requests within the timeframe required by applicable law. We reserve the right to verify your identity before processing any request, which may require authentication via the registered Telegram account.
-
-## 8. CONTACT AND UPDATES
-For inquiries regarding this Privacy Policy, please contact us through the official channels of the "Escape From Brilsk" project. We reserve the right to update this Policy at any time. Continued use of the Launcher following any changes constitutes your acceptance of the revised Policy.
+## 6. UPDATES
+We may revise this Privacy Policy from time to time. Significant changes will be announced via our official Telegram channel. Continued use of the client after changes constitutes acceptance of the updated Policy.
