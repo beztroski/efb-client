@@ -1,6 +1,6 @@
 # PRIVACY POLICY — ESCAPE FROM BRILSK CLIENT
 
-**Effective Date:** [This License becomes effective upon the creation of a User account in the Project]
+**Effective Date:** [19/06/2026]
 **Last Updated:** [19/06/2026]
 
 This Privacy Policy describes how the "Escape From Brilsk" project ("Project," "we," "us") processes information when you use our official client and related services. Our primary goal is to maintain a fair, secure, and abuse-free environment. This Policy is incorporated into our End User License Agreement.
