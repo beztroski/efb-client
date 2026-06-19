@@ -1,4 +1,4 @@
-# SECURITY POLICY — ESCAPE FROM BRILSK LAUNCHER
+# SECURITY POLICY — ESCAPE FROM BRILSK CLIENT
 
 **Last Updated:** [Date]
 **Scope:** This document describes our technical security posture, data protection measures, and responsible disclosure procedures for the Escape From Brilsk project.
@@ -6,7 +6,7 @@
 ---
 
 ## 1. PHILOSOPHY AND DESIGN PRINCIPLES
-The Escape From Brilsk launcher is architected with a "privacy by design" approach. We recognise that our enforcement of license integrity requires the processing of certain technical identifiers, and we accept the corresponding duty to protect those identifiers with industry-standard safeguards. Every identifier we collect is subject to the principle of least privilege: it is used for a single, defined purpose and retained no longer than technically necessary for that purpose — except where cryptographic hashing renders it irreversibly anonymised, at which point it serves exclusively as a security control.
+The Escape From Brilsk client is architected with a "privacy by design" approach. We recognise that our enforcement of license integrity requires the processing of certain technical identifiers, and we accept the corresponding duty to protect those identifiers with industry-standard safeguards. Every identifier we collect is subject to the principle of least privilege: it is used for a single, defined purpose and retained no longer than technically necessary for that purpose — except where cryptographic hashing renders it irreversibly anonymised, at which point it serves exclusively as a security control.
 
 ---
 
@@ -41,7 +41,7 @@ We apply a bifurcated retention model designed to reconcile operational necessit
 ## 3. TRANSMISSION AND NETWORK SECURITY
 - All client-server communication is conducted exclusively over **TLS 1.3**, with TLS 1.2 supported solely for legacy compatibility on older Windows installations. We enforce strict cipher suites and have disabled all known weak protocols (SSLv3, TLS 1.0/1.1).
 - Our API endpoints do not accept unencrypted HTTP connections; plain-text requests are met with a connection reset.
-- Certificate pinning is implemented in the launcher client to mitigate man-in-the-middle attacks against compromised certificate authorities.
+- Certificate pinning is implemented in the client to mitigate man-in-the-middle attacks against compromised certificate authorities.
 
 ---
 
@@ -63,7 +63,7 @@ In the unlikely event of a data exposure affecting technical identifiers:
 ---
 
 ## 6. VULNERABILITY DISCLOSURE (RESPONSIBLE REPORTING)
-We welcome security researchers and community members to report suspected vulnerabilities in the launcher, our infrastructure, or our privacy implementation. We ask that you:
+We welcome security researchers and community members to report suspected vulnerabilities in the client, our infrastructure, or our privacy implementation. We ask that you:
 
 - **Do not** exploit the vulnerability for any purpose beyond demonstrating its existence.
 - **Do not** publicly disclose the vulnerability before we have had an opportunity to investigate and, if necessary, deploy a patch.
